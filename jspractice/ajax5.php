@@ -15,6 +15,7 @@
                 success: function(data){
                   console.log(data);
                 }
+                
               }).done(function(){
                 alert("success");
               }).fail(function(){
